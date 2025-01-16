@@ -2,7 +2,7 @@
 
 # Solana Agent Kit
 
-![Solana Agent Kit Cover 1 (3)](https://github.com/user-attachments/assets/cfa380f6-79d9-474d-9852-3e1976c6de70)
+![Solana Agent Kit Cover 1 (3)](https://pictr.com/images/2025/01/16/xpEoSY.jpg)
 
 ![NPM Downloads](https://img.shields.io/npm/dm/solana-agent-kit?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/sendaifun/solana-agent-kit?style=for-the-badge)
