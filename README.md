@@ -1,6 +1,6 @@
 <div align="center">
 
-# Solana Agent Kit
+# Spaice: An Autonomous AI Agent for Liquidity Provision on Solana DEXs
 
 ![Solana Agent Kit Cover 1 (3)](https://pictr.com/images/2025/01/16/xpEoSY.jpg)
 
@@ -9,6 +9,46 @@
 ![GitHub License](https://img.shields.io/github/license/sendaifun/solana-agent-kit?style=for-the-badge)
 
 </div>
+
+# Abstract
+
+Liquidity provision (LPing) on decentralized exchanges (DEXs) offers lucrative opportunities within the decentralized finance (DeFi) ecosystem. However, the process is often characterized by complexity, time-consuming management, and the ever-present risk of impermanent loss. This white paper introduces Spaice, an autonomous AI agent designed to streamline and optimize LPing for users on the Solana blockchain. Leveraging the Solana Agent Kit from SendAI and the Meteroa framework, Spaice aims to democratize access to DeFi by empowering users with an intelligent and efficient solution for managing their liquidity.
+
+# 1. Introduction
+
+DeFi has emerged as a revolutionary force in the financial landscape, offering decentralized alternatives to traditional financial services. LPing, a core mechanism within DEXs, plays a crucial role in facilitating efficient and decentralized trading. However, several challenges hinder widespread adoption of LPing:
+
+Complexity: Understanding the intricacies of LPing, including tokenomics, impermanent loss, and the various DEXs, can be daunting for many users.
+Time-consuming Management: Constant monitoring of market conditions, rebalancing strategies, and managing risk requires significant time and effort.
+Impermanent Loss: The risk of impermanent loss, where the value of a user's LP tokens diminishes compared to holding the underlying assets, can be substantial.
+
+# 2. Spaice: An AI-Powered Solution
+
+Spaice addresses these challenges by introducing an autonomous AI agent specifically designed for LPing on Solana DEXs. This agent leverages the following key features:
+
+AI-Driven Decision Making: Spaice employs advanced machine learning algorithms to analyze market trends, predict price movements, and dynamically adjust LP strategies to optimize returns and minimize impermanent loss.
+
+Solana Agent Kit Integration: Built upon the robust Solana Agent Kit from SendAI, Spaice seamlessly integrates with the Solana ecosystem, enabling secure and efficient execution of LPing strategies.
+
+Meteroa Framework: The Meteroa framework provides a powerful foundation for developing and deploying intelligent agents, allowing for flexible customization and continuous improvement of Spaice's capabilities.
+
+# 3. Benefits of Using Spaice
+
+Enhanced Returns: By leveraging AI-powered optimization and dynamic strategy adjustments, Spaice aims to maximize user returns while minimizing the impact of impermanent loss.
+
+Time Savings: Users are freed from the time-consuming task of constantly monitoring and managing their LP positions, allowing them to focus on other activities.
+
+Improved Accessibility: Spaice democratizes access to LPing by making it more accessible to a wider range of users, regardless of their technical expertise or available time.
+
+Reduced Risk: While impermanent loss remains a factor, Spaice's AI-driven strategies aim to mitigate this risk through dynamic adjustments and risk management techniques.
+
+# 4. Vision for the Future
+
+Spaice envisions a future where DeFi is accessible to everyone. By building open-source infrastructure and empowering users with intelligent tools like Spaice, we aim to accelerate the adoption of DeFi and unlock the full potential of decentralized finance.
+
+# 5. Conclusion
+
+Spaice represents a significant step towards making LPing more accessible, efficient, and profitable for users on the Solana blockchain. By leveraging the power of AI and integrating with cutting-edge technologies like the Solana Agent Kit and the Meteroa framework, Spaice aims to revolutionize the way users interact with DeFi and unlock new possibilities for the entire ecosystem.
 
 An open-source toolkit for connecting AI agents to Solana protocols. Now, any agent, using any model can autonomously perform 15+ Solana actions:
 
